@@ -225,7 +225,7 @@ The dashboard identifies unusual sales patterns using Machine Learning.
 
 Clone the repository
 ---
-    - https://github.com/Subhrajyoti-Halder/SalesSense-AI
+    https://github.com/Subhrajyoti-Halder/SalesSense-AI/tree/main
 ---
 #### Go to the project directory
 
