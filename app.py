@@ -83,7 +83,7 @@ page = pages[selection]
 # ===========================
 if page == "Home":
 
-    st.title("📈 Sales Forecasting & Demand Intelligence Dashboard")
+    st.title("📈 SalesSense AI: End-to-End Sales Forecasting & Demand Intelligence System")
 
     st.markdown("""
     <div style="
