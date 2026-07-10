@@ -1,7 +1,5 @@
 # SalesSense-AI
 
-# 📈 SalesSense AI: End-to-End Sales Forecasting & Demand Intelligence System
-
 AI-Powered Retail Analytics Dashboard using Machine Learning, Time Series Forecasting, Anomaly Detection, and Interactive Business Intelligence
 ---
 ### 📖 Project Overview
