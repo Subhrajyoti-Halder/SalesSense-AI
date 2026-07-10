@@ -254,7 +254,6 @@ Clone the repository
 ### 🔮 Future Enhancements
 - Deep Learning (LSTM) Forecasting
 - Real-Time Sales Prediction
-- Cloud Deployment
 - Automatic Model Retraining
 - Inventory Optimization
 - Supplier Recommendation System
