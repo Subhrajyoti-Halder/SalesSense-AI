@@ -265,11 +265,6 @@ Clone the repository
 - REST API Integration
 
 ---
-### 👨‍💻 Developer
-
-Subhrajyoti Halder
-
-AI & Data Science Enthusiast
 
 
 ###  Support
