@@ -72,40 +72,40 @@ The primary objective of this project is to build an intelligent retail analytic
 - ℹ About
 ---
 ### 🏗 Project Workflow
-
-Retail Sales Dataset
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
+```
+ Retail Sales Dataset
+           │
+           ▼
+     Data Cleaning
+           │
+           ▼
 Exploratory Data Analysis (EDA)
-        │
-        ▼
-Feature Engineering
-        │
-        ▼
-Train Multiple Forecasting Models
-        │
-        ▼
-Model Evaluation
-        │
-        ▼
-Best Model Selection (XGBoost)
-        │
-        ▼
-Sales Forecasting
-        │
-        ▼
-Anomaly Detection
-        │
-        ▼
-Demand Segmentation
-        │
-        ▼
+           │
+           ▼
+   Feature Engineering
+           │
+           ▼
+ Train Multiple Forecasting Models
+           │
+           ▼
+    Model Evaluation
+           │
+           ▼
+ Best Model Selection (XGBoost)
+           │
+           ▼
+   Sales Forecasting
+           │
+           ▼
+   Anomaly Detection
+           │
+           ▼
+  Demand Segmentation
+           │
+           ▼
 Interactive Streamlit Dashboard
 
----
+```
 
 ### 🧠 Machine Learning Models Used
 
@@ -119,19 +119,20 @@ Interactive Streamlit Dashboard
 ##### 🏆 Best Model
 
 - XGBoost
-
+---
 #### Evaluation Metrics
+ Metric | Value |
 |------|------|
-| 'Metric' |	Value |
-| 'MAE'	 | 14,537.39 |
-| 'RMSE' |	17,093.03 |
+| `MAE` | 14,537.39 |
+| `RMSE` | 17,093.03 |
+
 ---
 
 ### 📂 Dataset
 
 #### Dataset contains retail sales information including:
 
-_ Order Date
+- Order Date
 - Ship Date
 - Region
 - Category
@@ -163,7 +164,7 @@ _ Order Date
 - Monthly Sales Aggregation
 ---
 
-###🔮 Forecasting
+### 🔮 Forecasting
 
 #### The forecasting module:
 
@@ -224,7 +225,7 @@ The dashboard identifies unusual sales patterns using Machine Learning.
 
 Clone the repository
 ---
-    - git clone https://github.com/yourusername/SalesSenseAI.git
+    - https://github.com/Subhrajyoti-Halder/SalesSense-AI
 ---
 #### Go to the project directory
 
