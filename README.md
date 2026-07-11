@@ -2,6 +2,11 @@
 
 AI-Powered Retail Analytics Dashboard using Machine Learning, Time Series Forecasting, Anomaly Detection, and Interactive Business Intelligence
 ---
+
+### Live Demo
+---
+    https://salessense-ai.streamlit.app/
+---
 ### 📖 Project Overview
 
 SalesSense AI is an end-to-end retail analytics solution designed to help businesses make data-driven decisions using historical sales data.
