@@ -3,7 +3,7 @@
 AI-Powered Retail Analytics Dashboard using Machine Learning, Time Series Forecasting, Anomaly Detection, and Interactive Business Intelligence
 ---
 
-### Live Demo
+### 🚀 Live Demo
 ---
     https://salessense-ai.streamlit.app/
 ---
