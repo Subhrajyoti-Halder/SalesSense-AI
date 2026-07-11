@@ -5,7 +5,7 @@ AI-Powered Retail Analytics Dashboard using Machine Learning, Time Series Foreca
 
 ### 🚀 Live Demo
 ---
-    https://salessense-ai.streamlit.app/
+    https://salessense-ai.streamlit.app
 ---
 ### 📖 Project Overview
 
